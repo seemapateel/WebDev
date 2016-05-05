@@ -1,0 +1,29 @@
+.loginHead{
+    background-color: saddlebrown ;
+    color: whitesmoke;
+    margin-bottom: 30px;
+    padding: 20px;
+    width: auto;
+    align-self: stretch;
+}
+
+.login-box{
+    width: 350px;
+    height: 350px;
+    border: solid 1px gray;
+    border-radius: 2%;
+}
+
+.login-bod{
+    width:auto;
+}
+
+input{
+    margin: 2%;
+    width:100%;
+}
+
+.btn-primary{
+    width:auto;
+    margin:4%;
+}
